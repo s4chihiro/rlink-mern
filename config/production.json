@@ -2,5 +2,5 @@
     "port": 5000,
     "jwtSecret": "s4chihiro mern-project",
     "mongoUri": "mongodb+srv://s4chihiro:qwer1234@cluster0-8i4qq.azure.mongodb.net/app?retryWrites=true&w=majority",
-    "baseUrl": "http://localhost:5000"
+    "baseUrl": "https://rlink-mern.herokuapp.com"
 }
